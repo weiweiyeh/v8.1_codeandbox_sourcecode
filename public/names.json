@@ -1,0 +1,292 @@
+[
+  {
+    "path": "/gltf/行政大樓.gltf",
+    "name": "行政大樓",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x":  111.343,
+      "y": 0,
+      "z": 113.824
+    }
+  },
+  {
+    "path": "/gltf/A棟.gltf",
+    "name": "A棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 129.791,
+      "y": 0.4,
+      "z": 150.964
+    }
+  },
+  {
+    "path": "/gltf/A棟附屬.gltf",
+    "name": "A附屬棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x":160.601,
+      "y": 0.4,
+      "z": 144.225
+    }
+  },
+  {
+    "path": "/gltf/C棟.gltf",
+    "name": "C棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 86.63,
+      "y": 0,
+      "z": 22.797
+    }
+  },
+  {
+    "path": "/gltf/D棟.gltf",
+    "name": "D棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 88.637,
+      "y": 0,
+      "z": 7.769
+    }
+  },
+  {
+    "path": "/gltf/E棟.gltf",
+    "name": "E棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 77.194,
+      "y": 0,
+      "z": -1.365 
+    }
+  },
+  {
+    "path": "/gltf/F棟.gltf",
+    "name": "F棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 66.196,
+      "y": 0,
+      "z": -22.302 
+    }
+  },
+  {
+    "path": "/gltf/G棟.gltf",
+    "name": "G棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 32.502,
+      "y": 0,
+      "z": -45.519
+    }
+  },
+  {
+    "path": "/gltf/H棟.gltf",
+    "name": "H棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 30.859,
+      "y": 0,
+      "z": -65.624
+    }
+  },
+  {
+    "path": "/gltf/J棟.gltf",
+    "name": "J棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 28.144,
+      "y": 0,
+      "z": -81.094
+    }
+  },
+  {
+    "path": "/gltf/K棟.gltf",
+    "name": "K棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 27.141,
+      "y": 0,
+      "z": -101.96
+    }
+  },
+  {
+    "path": "/gltf/管理室.gltf",
+    "name": "管理室",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 10.192,
+      "y": 0,
+      "z": -95.122
+    }
+  },
+  {
+    "path": "/gltf/L棟.gltf",
+    "name": "L棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -31.547,
+      "y": 0,
+      "z": -107.623
+    }
+  },
+  {
+    "path": "/gltf/M棟.gltf",
+    "name": "M棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 77.545,
+      "y": 0,
+      "z": -51.749
+    }
+  },
+  {
+    "path": "/gltf/N棟.gltf",
+    "name": "N棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 65.741,
+      "y": 0,
+      "z": -67.067
+    }
+  },
+  {
+    "path": "/gltf/O棟.gltf",
+    "name": "O棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 69.182,
+      "y": 0,
+      "z": -84.045
+    }
+  },
+  {
+    "path": "/gltf/P棟.gltf",
+    "name": "P棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 62.983,
+      "y": 0,
+      "z": -98.715
+    }
+  },
+  {
+    "path": "/gltf/Q棟.gltf",
+    "name": "Q棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 53.964,
+      "y": 0,
+      "z": -112.493
+    }
+  },
+  {
+    "path": "/gltf/R棟.gltf",
+    "name": "R棟",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 45.999,
+      "y": 0,
+      "z": -125.059
+    }
+  },
+  {
+    "path": "/gltf/水塔.gltf",
+    "name": "水塔",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x":  1.898,
+      "y": 0,
+      "z": -30.453
+    }
+  },
+  {
+    "path": "/gltf/水禽.gltf",
+    "name": "水禽",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -35.265,
+      "y": 0,
+      "z": -138.803
+    }
+  },
+  {
+    "path": "/gltf/水肥.gltf",
+    "name": "水肥",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -59.327,
+      "y": 0,
+      "z": -188.47
+    }
+  },
+  {
+    "path": "/gltf/大牛.gltf",
+    "name": "大牛",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "path": "/gltf/小牛.gltf",
+    "name": "小牛",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -1.801,
+      "y": 0,
+      "z": -46.163 
+    }
+  },
+  {
+    "path": "/gltf/雞一.gltf",
+    "name": "雞一",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 16.19,
+      "y": 0,
+      "z": -112.863
+    }
+  },
+  {
+    "path": "/gltf/雞二.gltf",
+    "name": "雞二",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 9.171,
+      "y": 0,
+      "z": -124.376
+    }
+  },
+  {
+    "path": "/gltf/雞三.gltf",
+    "name": "雞三",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": 4.833,
+      "y": 0,
+      "z": -136.663
+    }
+  },
+  {
+    "path": "/gltf/雞四.gltf",
+    "name": "雞四",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -0.567,
+      "y": 0,
+      "z": -143.535
+    }
+  },
+  {
+    "path": "/gltf/馬.gltf",
+    "name": "馬",
+    "description": "主要不知道在幹嘛",
+    "position": {
+      "x": -23.631,
+      "y": 0,
+      "z": -93.308
+    }
+  }
+]

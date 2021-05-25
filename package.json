@@ -1,0 +1,34 @@
+{
+  "name": "v8-0524-model",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "3.11.0",
+    "@react-three/fiber": "6.1.2",
+    "@tweenjs/tween.js": "18.6.4",
+    "camera-controls": "1.28.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.1",
+    "react-three-fiber": "5.3.17",
+    "three": "0.125.2",
+    "three-orbit-controls": "82.1.0",
+    "three.interactive": "1.1.0",
+    "tween": "0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

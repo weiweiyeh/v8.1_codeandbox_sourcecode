@@ -1,0 +1,131 @@
+@import url('https://rsms.me/inter/inter.css');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow: hidden;
+  margin: 0px;
+}
+
+#root {
+  background-color: burlywood;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#backButton {
+  color: #000000;
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  top: 90%;
+  left: 2.5%;
+  width: 140px;
+  height: 30px;
+  text-align: center;
+  background: rgba(236, 225, 225, 0.66);
+  border-radius: 0.5em;
+  border: 3px solid rgb(65, 65, 65);
+  cursor: pointer;
+}
+
+
+
+#progressBar {
+  width: 500px;
+  height: 24px;
+  position: absolute;
+  left: 50%;
+  top: 10px;
+  margin-left: -250px;
+}
+
+#annotationsPanel {
+  overflow: auto;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 120;
+  bottom: 4px;
+  color: white;
+  font-family: monospace;
+}
+
+#annotationsPanel ul {
+  
+  padding: 0;
+  list-style-type: none;
+}
+
+
+.annotationLabel {
+  cursor: pointer;
+  color: #ffffff;
+  font-family: monospace;
+  pointer-events:  visibleFill;
+  font-size: 17px;
+}
+
+.annotationName {
+
+  color: #ffffff;
+  font-family: monospace;
+  pointer-events: none;
+  font-size: 14px;
+  position: absolute;
+  top:-20px;
+  left: 30px;
+  border: 2px solid rgba(202, 197, 126, 0.774);
+  padding: 0.2em;
+  width: 100px;
+  height: 28px; 
+  background: rgba(143, 140, 140, 0.801);
+  text-align:center;
+  transition: opacity 0.5s;
+  display: none;
+  }
+
+
+
+.annotationDescription {
+  color: #000000;
+  font-family: monospace;
+  pointer-events: none;
+  font-size: 24px ;
+  font-weight:bold;
+  position: absolute;
+  top: -80px;
+  left: -360px;
+  height: 300px;
+  width: 200px;
+  padding: 1em;
+  background: rgba(236, 225, 225, 0.66);
+  border-radius: 0.5em;
+  transition: opacity 0.5s;
+  text-align: center;
+  display: none;
+}
+
+.annotationButton {
+  width: 120px;
+  height: 40px;
+  font-family: monospace;
+  background-color: rgba(0.25, 0.25, 0.25, 0.5);
+  color: white;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+
+
+body {
+  font-family: 'Inter var', sans-serif;
+  background: #f0f0f0;
+}
